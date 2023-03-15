@@ -12,7 +12,11 @@
         "projectPath": "C:\\Users\\Ramon Ebneter\\GroceryMate\\GroceryMateCodeBase\\backend\\grocery-mate-backend-UnitTest\\grocery-mate-backend-UnitTest.csproj",
         "packagesPath": "C:\\Users\\Ramon Ebneter\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ramon Ebneter\\GroceryMate\\GroceryMateCodeBase\\backend\\grocery-mate-backend-UnitTest\\obj\\",
+
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Ramon Ebneter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ramon Ebneter\\GroceryMate\\GroceryMateCodeBase\\backend\\grocery-mate-backend\\grocery-mate-backend.csproj": {
-                "projectPath": "C:\\Users\\Ramon Ebneter\\GroceryMate\\GroceryMateCodeBase\\backend\\grocery-mate-backend\\grocery-mate-backend.csproj"
+              "C:\\Users\\Felix\\Desktop\\SEProj\\GroceryMateCodeBase\\backend\\grocery-mate-backend\\grocery-mate-backend.csproj": {
+                "projectPath": "C:\\Users\\Felix\\Desktop\\SEProj\\GroceryMateCodeBase\\backend\\grocery-mate-backend\\grocery-mate-backend.csproj"
               }
             }
           }
@@ -94,8 +98,13 @@
         "packagesPath": "C:\\Users\\Ramon Ebneter\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ramon Ebneter\\GroceryMate\\GroceryMateCodeBase\\backend\\grocery-mate-backend\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ramon Ebneter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+
+          "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,6 +112,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
